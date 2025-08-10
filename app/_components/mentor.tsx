@@ -12,7 +12,7 @@ const MentorCarousel: React.FC = () => {
     },
     {
       name: 'Adv. Dr. Kriss Venugopal',
-      image: '62f9a321f483e51faac1c31187afa51022c0185a.png',
+      image: 'public/62f9a321f483e51faac1c31187afa51022c0185a.png',
       description: `Adv. Dr. Kriss Venugopal is a practicing clinical hypnotherapist, legal scholar, voice coach and actor with a PhD in Media Psychology. His work bridges mental health, voice coaching, and public policy, offering unique insight into how reform can be both systemic and deeply personal. He has worked extensively with students, professionals, and institutions to drive meaningful change. "SMILE's model is bold, compassionate, and necessary - and I'm excited to support this new wave of mental health leadership driven by young changemakers", he states.`
     }
   ];
